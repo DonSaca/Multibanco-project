@@ -1,0 +1,9 @@
+--metodos da classe conta feitos
+--Login form feito
+--Admin form (85%)
+--User form (95%)
+
+
+Falta, tratar do input de todos os textboxes de todos os forms [FEITO, EU ACHO]
+
+Falta acabar a parte do credito

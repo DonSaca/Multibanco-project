@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|c:\\users\\vanes\\downloads\\multibanco\\multibanco\\multibanco\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|c:\\users\\vanes\\downloads\\multibanco\\multibanco\\multibanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\multibanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\multibanco\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|c:\\users\\vanes\\downloads\\multibanco\\multibanco\\multibanco\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\multibanco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|c:\\users\\vanes\\downloads\\multibanco\\multibanco\\multibanco\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\multibanco\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|c:\\users\\vanes\\downloads\\multibanco\\multibanco\\multibanco\\credito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A938001-7633-462A-815A-AD62B86D20A5}|Multibanco\\Multibanco.csproj|solutionrelative:multibanco\\credito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Form1.cs",
+              "RelativeDocumentMoniker": "Multibanco\\Form1.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Form1.cs [Design]",
+              "RelativeToolTip": "Multibanco\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:54:22.296Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Login.cs",
+              "RelativeDocumentMoniker": "Multibanco\\Login.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Login.cs [Design]",
+              "RelativeToolTip": "Multibanco\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:54:25.501Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUser.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\FormUser.cs",
+              "RelativeDocumentMoniker": "Multibanco\\FormUser.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\FormUser.cs",
+              "RelativeToolTip": "Multibanco\\FormUser.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:33:45.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\FormUser.cs",
+              "RelativeDocumentMoniker": "Multibanco\\FormUser.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\FormUser.cs [Design]",
+              "RelativeToolTip": "Multibanco\\FormUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:51:54.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "conta.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\conta.cs",
+              "RelativeDocumentMoniker": "Multibanco\\conta.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\conta.cs",
+              "RelativeToolTip": "Multibanco\\conta.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAApwHsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:01:47.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Form1.cs",
+              "RelativeDocumentMoniker": "Multibanco\\Form1.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Form1.cs",
+              "RelativeToolTip": "Multibanco\\Form1.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAkwI8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:17:17.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Login.cs",
+              "RelativeDocumentMoniker": "Multibanco\\Login.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Login.cs",
+              "RelativeToolTip": "Multibanco\\Login.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:35:10.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Credito.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Credito.cs",
+              "RelativeDocumentMoniker": "Multibanco\\Credito.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Credito.cs",
+              "RelativeToolTip": "Multibanco\\Credito.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:00:47.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Generic.cs",
+              "RelativeDocumentMoniker": "Multibanco\\Generic.cs",
+              "ToolTip": "C:\\Users\\vanes\\Downloads\\Multibanco\\Multibanco\\Multibanco\\Generic.cs",
+              "RelativeToolTip": "Multibanco\\Generic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:23:42.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
